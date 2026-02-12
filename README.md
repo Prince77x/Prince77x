@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I’m Prince Kumar
 
-<!--
-**Prince77x/Prince77x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer| 🎓DS_Student-IIT Madras | Web3 Learner 
 
-Here are some ideas to get you started:
+I love building projects, and exploring modern web tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+👨‍🎓 DS_Student-IIT Madras 
+👨‍💻 Working in Full-Stack dev | Flask | MYSQL| MERN 
+🧠 Currently learning WEB3  
+💞️ Love collaborating on web projects  
+📍 From India  
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+HTML | CSS | JavaScript | Python | Rust (learning)
+
+### Frameworks / Tools
+React | Flask | Node.js | Anchor  
+MongoDB | SQLite  
+Git | VS Code | Postman  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: (add link)  
+🐦 Twitter: (add link)  
+🌐 Portfolio: (optional)
+
+---
+
+## 📊 GitHub Stats
+
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
+---
+
+✨ *“Learning every day. Building every week.”*
+
+---
+
+### 👁 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
